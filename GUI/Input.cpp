@@ -1,6 +1,7 @@
 #include "Input.h"
 #include "Output.h"
-
+#include<iostream>
+using namespace std;
 
 Input::Input(window* pW) 
 {
