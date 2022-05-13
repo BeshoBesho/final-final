@@ -21,7 +21,7 @@ int main()
 
 	}while(ActType != EXIT);
 	
-
+	//aflknlcd
 	
 	return 0;
 }
